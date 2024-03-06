@@ -27,4 +27,3 @@ steps:
       archiveFile: "$(Build.ArtifactStagingDirectory)/build.zip"
       replaceExistingArchive: true
  
-has context menu
